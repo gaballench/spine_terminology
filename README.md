@@ -21,4 +21,4 @@ spine_terminology/
 
 Please cite this as:
 
-Ballen, G.A. & de Pinna, M.C.C. 2021. A Standardized Terminology of Spines in the Order Siluriformes (Actinopterygii: Ostariophysi). Zoological Journal of the Linnean Society XXX(XX):XXX-XXX.
+Ballen, G.A. & de Pinna, M.C.C. 2021. A Standardized Terminology of Spines in the Order Siluriformes (Actinopterygii: Ostariophysi). Zoological Journal of the Linnean Society XXX(XX):XXX-XXX
