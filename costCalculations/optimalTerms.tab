@@ -1,0 +1,114 @@
+Structure	Terms	Frequency	Total	indCost
+A	2	1	23	22
+A	arched crest	1	23	22
+A	Articular plateau	3	23	20
+A	Cleithral process	1	23	22
+A	Curved flange	1	23	22
+A	delta	1	23	22
+A	Dorsal articulating process	2	23	21
+A	Dorsal articulating surface	1	23	22
+A	Dorsal condyle	2	23	21
+A	Dorsal process	5	23	18
+A	Dorsal process of spine	2	23	21
+A	Expanded flange	1	23	22
+A	Helicoidal semidisk	1	23	22
+A	Surface cleithrale	1	23	22
+AA	Articular facet for posterior nuchal plate	1	4	3
+AA	Lateral articular surface	2	4	2
+AA	Surface articulaire de l’aile latéral	1	4	3
+B	Anterior process of dorsal condyle	1	12	11
+B	Axial process	2	12	10
+B	Median process of dorsal condyle	6	12	6
+B	Processus axial	1	12	11
+B	Proximal tubercle	1	12	11
+B	Rotator process	1	12	11
+Base	Base	4	9	5
+Base	Cabeza	1	9	8
+Base	Head	3	9	6
+Base	Tête articulaire	1	9	8
+C	Dorsomedian process	1	3	2
+C	Posterior process	1	3	2
+C	Proximal process	1	3	2
+D	Articular facet for scapulocoracoid	2	6	4
+D	Articular groove	1	6	5
+D	Articular notch (fossa)	1	6	5
+D	Central articulating surface	1	6	5
+D	Cotyle of spine	1	6	5
+E	Central articulating surface	1	2	1
+E	Posterior fossa	1	2	1
+F	Furrow	1	5	4
+F	Posterior groove	3	5	2
+F	Sulcus	1	5	4
+G	Basal recess	3	13	10
+G	Foramen	1	13	12
+G	Fosse interne	1	13	12
+G	Hendidura basal	1	13	12
+G	Inner fossa	2	13	11
+G	Inner hole	1	13	12
+G	Nutritive canal	1	13	12
+G	Posterior basal recess	1	13	12
+G	Proximal foramen	2	13	11
+H	Basal process	1	1	0
+I	Distal lobe	1	2	1
+I	Medial flange for insertion of superficialis abductor muscle	1	2	1
+J	Anterior basal recess	1	4	3
+J	Anterior fossa	1	4	3
+J	Insertion for arrector dorsalis dorsal division muscle	1	4	3
+J	Insertion surface for ventral arrector part z muscle	1	4	3
+K	Anterior articular process	1	13	12
+K	Anterior condyle	1	13	12
+K	Anterior process	3	13	10
+K	Anteroventral process	1	13	12
+K	Dorsolateral process	3	13	10
+K	Dorsomedial process	1	13	12
+K	Processus dorso-latéral	1	13	12
+K	Proximoventral process	1	13	12
+K	Ventral process	1	13	12
+L	Distoventral process	1	12	11
+L	Posteroventral process	1	12	11
+L	Processus ventro-latéral	1	12	11
+L	Ventral articular process	1	12	11
+L	Ventral condyle	1	12	11
+L	Ventral process	4	12	8
+L	Ventrolateral process	2	12	10
+L	Ventromedial process	1	12	11
+M	Anteroventral emargination	2	3	1
+M	Lateral cotyle	1	3	2
+N	Depression for the arrector ventralis muscle	1	2	1
+N	Ventral fossa	1	2	1
+O	Mur inféro-interne	1	2	1
+O	Rama ventral	1	2	1
+P	Mur supéro-interne	1	2	1
+P	Rama dorsal	1	2	1
+Q	Proximal crest	1	1	0
+R	Insertion for arrector ventralis	1	1	0
+S	1	1	3	2
+S	beta	1	3	2
+S	Proximal articulating surface	1	3	2
+Shaft	Cuerpo	1	8	7
+Shaft	Shaft	7	8	1
+T	Aile latéral	1	6	5
+T	Basal condyle	1	6	5
+T	Condilo lateral	1	6	5
+T	Lateral condyle	1	6	5
+T	Lateral wing	2	6	4
+U	Anterior articular surface	1	7	6
+U	Articular median process	1	7	6
+U	Condilo medial	1	7	6
+U	Median articular process	1	7	6
+U	Processus articulaire médian	1	7	6
+U	Processus médian d’articulation de l’épine	1	7	6
+U	rd2 (radialis distalis)	1	7	6
+V	Foseta para inserción de m. erector spina	1	1	0
+W	Articular foramen	1	7	6
+W	Basal foramen	1	7	6
+W	Foramen	3	7	4
+W	Foramen de la base de la espina	1	7	6
+W	Foramen médian	1	7	6
+X	Inflexion point of the median crest	1	1	0
+Y	Canal central	1	4	3
+Y	Deep median groove	1	4	3
+Y	Median furrow	1	4	3
+Y	Sulcus	1	4	3
+Z	Posterior process	1	2	1
+Z	Processus posterieur de blocage	1	2	1

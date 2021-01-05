@@ -1,0 +1,160 @@
+Spine	Structure	Term	Reference
+PecSpine	A	Curved flange	Alexander1965
+PecSpine	A	Articular plateau	Otero2009
+PecSpine	A	Surface cleithrale	Gayet1990
+PecSpine	A	Cleithral process	Argyriou2015
+PecSpine	A	Dorsal process of spine	Brousseau1976
+PecSpine	A	Dorsal process of spine	Cione2005
+PecSpine	A	Dorsal condyle	Diogo2004
+PecSpine	A	Dorsal condyle	Diogo2007b
+PecSpine	A	Dorsal articulating process	Divay2015
+PecSpine	A	Expanded flange	Eigenmann1925
+PecSpine	A	Articular plateau	Pinton2006
+PecSpine	A	Articular plateau	Pinton2010
+PecSpine	A	Dorsal articulating surface	Hubbs1951
+PecSpine	A	Dorsal process	Hubbs1951
+PecSpine	A	Dorsal process	Kaatz2010
+PecSpine	A	Dorsal process	Paloumpis1963
+PecSpine	A	Dorsal process	Parmentier2010
+PecSpine	A	Dorsal process	Miano2013
+PecSpine	A	delta	Sörensen in Hubbs1951
+PecSpine	A	arched crest	Bunkenroad in Hubbs1951
+PecSpine	A	2	Merriman in Hubbs1951
+PecSpine	A	Helicoidal semidisk	Royero1999
+PecSpine	A	Dorsal articulating process	Vanscoy2015
+PecSpine	B	Proximal tubercle	Hubbs1951
+PecSpine	B	Processus axial	Gayet1990
+PecSpine	B	Anterior process of dorsal condyle	Diogo2007b
+PecSpine	B	Axial process	Parmentier2010
+PecSpine	B	Axial process	Pinton2010
+PecSpine	B	Median process of dorsal condyle	Diogo2004
+PecSpine	B	Median process of dorsal condyle	Diogo2007a
+PecSpine	B	Median process of dorsal condyle	Diogo2007b
+PecSpine	B	Median process of dorsal condyle	Diogo2006a
+PecSpine	B	Median process of dorsal condyle	Diogo2003a
+PecSpine	B	Median process of dorsal condyle	Diogo2001
+PecSpine	B	Rotator process	Royero1999
+PecSpine	C	Dorsomedian process	Diogo2006
+PecSpine	C	Posterior process	Hubbs1951
+PecSpine	C	Proximal process	Otero2009
+PecSpine	D	Cotyle of spine	Brousseau1976
+PecSpine	D	Articular groove	Pinton2010
+PecSpine	D	Central articulating surface	Hubbs1951
+PecSpine	D	Articular facet for scapulocoracoid	Diogo2006
+PecSpine	D	Articular facet for scapulocoracoid	Diogo2006
+PecSpine	D	Articular notch (fossa)	Vanscoy2015
+PecSpine	E	Posterior fossa	Hubbs1951
+PecSpine	E	Central articulating surface	Paloumpis1963
+PecSpine	F	Furrow	Divay2015
+PecSpine	F	Posterior groove	Hubbs1951
+PecSpine	F	Posterior groove	Lundberg1975
+PecSpine	F	Posterior groove	Paloumpis1963
+PecSpine	F	Sulcus	Cione2005
+PecSpine	G	Fosse interne	Gayet1990
+PecSpine	G	Proximal foramen	Bennett1979
+PecSpine	G	Hendidura basal	Bisbal1986
+PecSpine	G	Nutritive canal	Brousseau1976
+PecSpine	G	Inner hole	Pinton2006
+PecSpine	G	Posterior basal recess	Divay2015
+PecSpine	G	Basal recess	Hubbs1951
+PecSpine	G	Proximal foramen	Cione2005
+PecSpine	G	Inner fossa	Otero2009
+PecSpine	G	Inner fossa	Pinton2010
+PecSpine	G	Basal recess	Paloumpis1963
+PecSpine	G	Foramen	Royero1999
+PecSpine	G	Basal recess	Vanscoy2015
+PecSpine	H	Basal process	Hubbs1951
+PecSpine	I	Medial flange for insertion of superficialis abductor muscle	Brousseau1976
+PecSpine	I	Distal lobe	Hubbs1951
+PecSpine	J	Insertion surface for ventral arrector part z muscle	Brousseau1976
+PecSpine	J	Insertion for arrector dorsalis dorsal division muscle	Diogo2001
+PecSpine	J	Anterior basal recess	Divay2015
+PecSpine	J	Anterior fossa	Hubbs1951
+PecSpine	K	Processus dorso-latéral	Gayet1990
+PecSpine	K	Anteroventral process	Parmentier2010
+PecSpine	K	Dorsolateral process	Argyriou2015
+PecSpine	K	Dorsolateral process	Brousseau1976
+PecSpine	K	Dorsolateral process	Pinton2011
+PecSpine	K	Anterior process	Hubbs1951
+PecSpine	K	Anterior process	Kaatz2010
+PecSpine	K	Anterior process	Miano2013
+PecSpine	K	Anterior condyle	Diogo2006
+PecSpine	K	Ventral process	Paloumpis1963
+PecSpine	K	Proximoventral process	Pinton2010
+PecSpine	K	Dorsomedial process	Royero1999
+PecSpine	K	Anterior articular process	Vanscoy2015
+PecSpine	L	Ventrolateral process	Pinton2011
+PecSpine	L	Ventrolateral process	Brousseau1976
+PecSpine	L	Distoventral process	Pinton2010
+PecSpine	L	Processus ventro-latéral	Gayet1990
+PecSpine	L	Ventral condyle	Diogo2001
+PecSpine	L	Ventral process	Divay2015
+PecSpine	L	Ventral process	Hubbs1951
+PecSpine	L	Ventral process	Kaatz2010
+PecSpine	L	Ventral process	Miano2013
+PecSpine	L	Posteroventral process	Parmentier2010
+PecSpine	L	Ventromedial process	Royero1999
+PecSpine	L	Ventral articular process	Vanscoy2015
+PecSpine	M	Lateral cotyle	Brousseau1976
+PecSpine	M	Anteroventral emargination	Hubbs1951
+PecSpine	M	Anteroventral emargination	Paloumpis1963
+PecSpine	N	Ventral fossa	Hubbs1951
+PecSpine	N	Depression for the arrector ventralis muscle	Pinton2011
+PecSpine	O	Mur inféro-interne	Gayet1990
+PecSpine	O	Rama ventral	Bisbal1986
+PecSpine	P	Mur supéro-interne	Gayet1990
+PecSpine	P	Rama dorsal	Bisbal1986
+PecSpine	Q	Proximal crest	Hubbs1951
+PecSpine	R	Insertion for arrector ventralis	Diogo2001
+PecSpine	S	Proximal articulating surface	Hubbs1951
+PecSpine	S	beta	Sörensen in Hubbs1951
+PecSpine	S	1	Merriman in Hubbs1951
+PecSpine	Shaft	Cuerpo	Bisbal1986
+PecSpine	Shaft	Shaft	Brousseau1976
+PecSpine	Shaft	Shaft	Egge2011
+PecSpine	Shaft	Shaft	Divay2015
+PecSpine	Shaft	Shaft	Hubbs1951
+PecSpine	Shaft	Shaft	Cione2005
+PecSpine	Shaft	Shaft	Lundberg1975
+PecSpine	Shaft	Shaft	Kaatz2010
+PecSpine	Base	Head	Royero1999
+PecSpine	Base	Head	Greenwood1950
+PecSpine	Base	Head	Otero2009
+PecSpine	Base	Tête articulaire	Gayet1990
+PecSpine	Base	Cabeza	Bisbal1986
+PecSpine	Base	Base	Divay2015
+PecSpine	Base	Base	Eigenmann1888
+PecSpine	Base	Base	Cione2005
+PecSpine	Base	Base	Lundberg1975
+DorSpine	T	Lateral wing	Argyriou2015
+DorSpine	T	Lateral wing	Pinton2006
+DorSpine	T	Lateral condyle	Divay2015
+DorSpine	T	Basal condyle	Lundberg1975
+DorSpine	AA	Lateral articular surface	Otero2007
+DorSpine	T	Condilo lateral	RoyeroUnpub
+DorSpine	AA	Lateral articular surface	Eigenmann1925
+DorSpine	T	Aile latéral	Gayet1990
+DorSpine	AA	Articular facet for posterior nuchal plate	Pinton2010
+DorSpine	U	rd2 (radialis distalis)	Alexander1965
+DorSpine	U	Median articular process	Otero2007
+DorSpine	U	Condilo medial	RoyeroUnpub
+DorSpine	U	Articular median process	Pinton2010
+DorSpine	U	Anterior articular surface	Eigenmann1925
+DorSpine	U	Processus médian d’articulation de l’épine	Gayet1990
+DorSpine	U	Processus articulaire médian	Gayet1990
+DorSpine	V	Foseta para inserción de m. erector spina	RoyeroUnpub
+DorSpine	W	Articular foramen	Argyriou2015
+DorSpine	W	Basal foramen	Divay2015
+DorSpine	W	Foramen	Otero2007
+DorSpine	W	Foramen	Pinton2010
+DorSpine	W	Foramen	Pinton2006
+DorSpine	W	Foramen de la base de la espina	RoyeroUnpub
+DorSpine	W	Foramen médian	Gayet1990
+DorSpine	X	Inflexion point of the median crest	Pinton2010
+DorSpine	Y	Median furrow	Divay2015
+DorSpine	Y	Deep median groove	Lundberg1975
+DorSpine	Y	Canal central	RoyeroUnpub
+DorSpine	Y	Sulcus	Cione2005
+DorSpine	Z	Processus posterieur de blocage	Gayet1990
+DorSpine	AA	Surface articulaire de l’aile latéral	Gayet1990
+DorSpine	Z	Posterior process	Otero2007
