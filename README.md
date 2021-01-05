@@ -1,6 +1,6 @@
 # Supplementary materials for Ballen and de Pinna (2021)
 
-There are two directories in this repository. One of them allows to reproduce the cost calculations (`costCalculations`) via an R script and the raw table of terms found in the literature. The other directory allows to reproduce the supplementary table C2 where different terms have been used fofr anterior and posterior ornaments in the literature.
+There are two directories in this repository. One of them allows to reproduce the cost calculations (`costCalculations`) via an R script and the raw table of terms found in the literature. The other directory allows to reproduce the supplementary table C2 (`shaftOrnamentTable`) where different terms have been used fofr anterior and posterior ornaments in the literature.
 
 ## Structure of this repository
 
